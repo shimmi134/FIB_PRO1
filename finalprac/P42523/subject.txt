@@ -1,0 +1,19 @@
+Write a recursive function that computes the greatest common divisor of two natural numbers a and b using the fast version of the Euclidean algorithm.
+
+Interface
+
+C++	
+    int gcd(int a, int b);
+C	
+    int gcd(int a, int b);
+Java	
+    public static int gcd(int a, int b);
+Python	
+    gcd(a, b)  # returns int
+ 	
+    gcd(a: int, b: int) -> int
+Precondition
+
+Neither a nor b are negative, and at least one of them is strictly greater than zero.
+
+Observation You only need to submit the required procedure; your main program will be ignored.

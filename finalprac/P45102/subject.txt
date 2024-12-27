@@ -1,0 +1,20 @@
+Write a program that reads a completely parenthesed expression, and prints the result of evaluating it. The three possible operators are sum, substraction and multiplication. The operands are natural numbers between 0 and 9 (both included).
+
+Input
+
+Input has a completely parenthesed expression. That is, parentheses always appear around subexpressions that are not digits. For instance, the expression 4 + 3 would be written
+
+( 4 + 3 )
+The expression 8 * (4 + 3) would be written
+
+( 8 * ( 4 + 3 ) )
+The expression (2 − 8) * (4 + 3) would be written
+
+((2-8)*(4+3))
+Output
+
+Print a line with an integer number: the result of evaluating the given expression.
+
+Hint
+
+Note that an expression is either directly a digit, or an opening parenthesis, followed by an expression, by an operator, by another expression, and by a closing parenthesis. Take inspiration in this fact to write a simple recursive program.
