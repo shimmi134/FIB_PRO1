@@ -15,7 +15,7 @@ vector<bool>sieve()
 	return (isPrime);
 }
 /*
-bool bin_search(const vector<long>p, long n)
+bool bin_search(const vector<long>&p, long n)
 {
 	long start = 0;
 	long end = p.size()-1;
