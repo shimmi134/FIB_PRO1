@@ -9,24 +9,14 @@ vector<int> Sieve(int n)
 	vector<int>listP;
 
 	for(int i = 2; i <= n; i++)
-	{
 		if (isPrime[i])
-		{
 			for (int j = i*i; j <= n; j = j+i)
-			{
 				isPrime[j] = false;
-			}
-		}
-	}
 	for (int i = 2; i <= n; i++)
-	{
 		if (isPrime[i])
 			listP.push_back(i);
-	}
 	for (int i = 0; i < listP.size(); i++)
-	{
 		cout << listP[i] << " ";
-	}
 	cout << endl;
 	return (listP);
 }
