@@ -5,24 +5,15 @@ using namespace std;
 
 string exit(int p, vector<int>& v)
 {
-    if (v[p] == 0 || p == 0)
-        return ("never");
-    if (p >= v.size())
-        return ("right");
-    if (p < 0)
-        return ("left");
-    if (v[p] > 0)
+    int size = v.size();
+    int pini;
+    while (v[p] != 0 and v[p]+p >= 0 and size > v[p]+p)
     {
-        if (p + v[p] >= v.size())
-            return ("right");
-        else
-            return exit(p+v[p],v);
+        pini = p;
+        p = v[p]+p;
+        v[pini] = 0;
     }
-    else
-    {
-        if (p + v[p] < 0)
-            return ("left");
-        else
-            return (exit(p-v[p],v));
-    }
+    if (v[p] == 0) return "never";
+    else if (v[p]+p < 0) return "left";
+    else return "right";
 }

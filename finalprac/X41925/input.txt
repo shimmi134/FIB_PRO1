@@ -1,0 +1,237 @@
+3
+1 joel
+1 joel
+0 joel
+
+11
+0 anabel
+4 maria
+1 anabel
+1 nestor
+3 maria
+4 anabel
+2 anabel
+4 maria
+4 nestor
+3 anabel
+2 david
+
+18
+0 rosabel
+2 robert
+2 joan
+1 silvia
+5 rosabel
+5 rosabel
+3 silvia
+1 silvia
+5 silvia
+5 silvia
+1 silvia
+4 joel
+3 david
+5 rosabel
+5 joel
+2 rosabel
+3 joan
+5 silvia
+
+5
+0 silvia
+0 silvia
+0 silvia
+0 silvia
+0 silvia
+
+7
+2 desi
+4 desi
+5 desi
+6 desi
+0 desi
+1 desi
+6 desi
+
+3
+0 anabel
+0 sandra
+0 silvia
+
+2
+0 nestor
+1 nestor
+
+13
+0 ferran
+2 aleix
+0 maxtor
+0 ferran
+1 cesar
+1 maxtor
+2 maxtor
+0 cesar
+1 maxtor
+2 maxtor
+2 cesar
+2 aleix
+0 aleix
+
+10
+1 maria
+0 maria
+4 aleix
+4 aleix
+1 maria
+0 maria
+2 aleix
+4 aleix
+0 aleix
+2 maria
+
+14
+0 nestor
+1 nestor
+2 nestor
+2 nestor
+0 silvia
+2 marisa
+1 marisa
+0 silvia
+2 marisa
+0 nestor
+2 marisa
+1 silvia
+0 nestor
+1 nestor
+
+16
+2 robert
+0 robert
+2 laura
+0 joan
+1 joan
+1 robert
+1 laura
+2 joan
+0 joan
+1 robert
+2 joan
+0 robert
+1 robert
+2 robert
+0 joan
+2 joan
+
+7
+1 rosabel
+0 rosabel
+0 rosabel
+2 rosabel
+0 rosabel
+2 rosabel
+1 rosabel
+
+7
+6 nuria
+4 nuria
+4 nuria
+5 nuria
+1 nuria
+5 nuria
+2 nuria
+
+15
+0 nestor
+0 angels
+2 david
+2 angels
+2 nestor
+1 david
+1 david
+0 david
+2 angels
+0 angels
+2 angels
+1 david
+1 nestor
+0 robert
+2 robert
+
+19
+16 sandra
+16 robert
+7 joel
+10 joel
+0 robert
+4 robert
+13 robert
+11 marisa
+2 robert
+11 robert
+7 marisa
+7 marisa
+13 joel
+12 marisa
+1 joel
+13 marisa
+9 sandra
+12 marisa
+10 marisa
+
+6
+0 david
+0 david
+0 david
+0 david
+0 david
+0 david
+
+4
+0 oscar
+0 oscar
+0 oscar
+0 oscar
+
+16
+5 nestor
+3 oscar
+5 robert
+5 robert
+5 robert
+3 cesar
+0 oscar
+5 angels
+4 robert
+6 robert
+7 oscar
+2 angels
+4 oscar
+5 cesar
+2 angels
+0 cesar
+
+11
+2 robert
+1 ferran
+3 robert
+3 robert
+1 ferran
+0 robert
+0 robert
+2 robert
+1 ferran
+2 robert
+1 robert
+
+11
+4 arisa
+5 arisa
+3 oscar
+7 oscar
+7 arisa
+1 arisa
+6 oscar
+3 arisa
+4 oscar
+9 oscar
+0 oscar
